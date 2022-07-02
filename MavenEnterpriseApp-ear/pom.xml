@@ -14,7 +14,7 @@
   <url>http://maven.apache.org</url>
 
   <build>
-    <finalName>MavenEnterpriseApp-ear</finalName>
+    <finalName>ZEALEnterpriseApp-ear</finalName>
   </build>
     <dependencies>
         <dependency>

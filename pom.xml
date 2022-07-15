@@ -27,7 +27,7 @@
             <repository>
               <id>nexus</id>
               <name>Mithun Technologies Releases Nexus Repository</name>
-              <url>http://3.108.185.173:8081/repository/standalone-snapshot/</url>
+              <url>http://3.108.185.173:8081/repository/standalone-releases/</url>
             </repository>
 
             <snapshotRepository>
